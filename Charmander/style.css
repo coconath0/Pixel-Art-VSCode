@@ -836,7 +836,6 @@ body {
     220px 360px #4B3922,
     230px 360px #4B3922,
     240px 360px #4B3922,
-
     /* Line 36*/
 /* 10 and 30 px are transparent*/
     40px 370px #B7653C,
@@ -858,7 +857,13 @@ body {
     200px 370px #b84b20,
     210px 370px #4B3922,
 /* 220 and 370 px are transparent*/
-
+    270px 370px #cce7eb,
+    275px 370px #cce7eb,
+    300px 370px #cce7eb,
+    320px 370px #cce7eb,
+    330px 370px #cce7eb,
+    340px 370px #cce7eb,
+    
     /* Line 37*/
 /* 10 and 20 px are transparent*/
     30px 380px #B7653C,
@@ -878,8 +883,12 @@ body {
     210px 380px #b84b20,
     220px 380px #B7653C,
 /* 230 to 370 px are transparent*/
-
-  /* Line 38*/
+    270px 380px #cce7eb,
+    300px 380px #cce7eb,
+    280px 380px #cce7eb,
+    330px 380px #cce7eb,
+  
+    /* Line 38*/
   /* 10 px is transparent*/
     20px 390px #B7653C,
     30px 390px #ffffff,
@@ -898,7 +907,11 @@ body {
     210px 390px #b84b20,
     220px 390px #4B3922,
 /* 230 to 370 px are transparent*/
-    
+    270px 390px #cce7eb,
+    290px 390px #cce7eb,
+    300px 390px #cce7eb,
+    330px 390px #cce7eb,
+
     /* Line 39*/
 /* 10 and 20 px are transparent*/
     30px 400px #B7653C,
@@ -914,8 +927,13 @@ body {
     190px 400px #ffffff,
     200px 400px #B7653C,
     210px 400px #ffffff,
-    220px 400px #4B3922;
+    220px 400px #4B3922,
 /* 230 to 400 px are transparent*/
-
+    270px 400px #cce7eb,
+    295px 400px #cce7eb,
+    320px 400px #cce7eb,
+    330px 400px #cce7eb,
+    340px 400px #cce7eb,
+    300px 400px #cce7eb;
   /* Final line full transparent -> no need to write the whole code*/
 }
