@@ -5,7 +5,7 @@ body {
   display: flex;
 }
 
-.chamanderPixel {
+.charmanderPixel {
   top: 50%;
   left: 50%;
   position: absolute;
@@ -14,7 +14,7 @@ body {
   transform: translate(-50%, -50%);
 }
 
-.chamanderPixel:after {
+.charmanderPixel:after {
   content: "";
   position: absolute;
   top: -10px;
